@@ -1,0 +1,11 @@
+# Sample prompts for image generation
+# One prompt per line — lines starting with # are ignored
+
+a sunset over mountain peaks, oil painting style, warm golden colors
+a futuristic city at night with glowing neon lights and flying cars
+a serene Japanese zen garden with cherry blossoms, photorealistic
+a majestic lion portrait in watercolor style, vibrant colors
+an astronaut floating in space with Earth in the background, digital art
+a cozy coffee shop interior in the rain, soft lighting, impressionist
+a fantasy castle on a floating island surrounded by clouds
+a wolf howling at the full moon in a snowy forest, dramatic lighting
